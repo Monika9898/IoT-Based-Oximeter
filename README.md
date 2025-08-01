@@ -84,8 +84,6 @@ This project is a real-time, IoT-enabled **pulse oximeter** that measures **hear
    - Gauge for **V8** → SpO₂
 4. Get your **Auth Token** and replace in code:
 
-```cpp
-char auth[] = "YOUR_BLYNK_AUTH_TOKEN";
 
  
 🔮 Future Improvements
