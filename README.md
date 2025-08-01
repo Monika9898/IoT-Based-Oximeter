@@ -87,25 +87,6 @@ This project is a real-time, IoT-enabled **pulse oximeter** that measures **hear
 ```cpp
 char auth[] = "YOUR_BLYNK_AUTH_TOKEN";
 
-🧠 Code Overview
--Key logic used in the Arduino sketch:
-
-
-Blynk.virtualWrite(V7, BPM);       // Send BPM to Blynk
-Blynk.virtualWrite(V8, SpO2);      // Send SpO2 to Blynk
-
-oled.setCursor(0, 0);
-oled.println("Heart BPM");
-oled.setCursor(0,16);
-oled.println(pox.getHeartRate());
-
-OLED displays values like:
-Heart BPM
-81.57
-SpO2
-95
-💙 (heart bitmap)
-
  
 🔮 Future Improvements
 -Replace MAX30100 with MAX30102 for better accuracy
