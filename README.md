@@ -37,7 +37,7 @@ This project is a real-time, IoT-enabled **pulse oximeter** that measures **hear
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.jng)
+![Circuit Diagram](circuit_diagram.jpg)
 
 ### 🧷 Pin Connections
 
