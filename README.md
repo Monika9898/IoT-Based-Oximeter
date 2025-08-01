@@ -8,7 +8,7 @@ This project is a real-time, IoT-enabled **pulse oximeter** that measures **hear
 
 ## 📷 Real Project Output
 
-![Real Project Output](Real_Output.jpg)
+![Real Project Output](Real_Output.png)
 
 > OLED shows BPM and SpO₂ with a heart icon. MAX30100 glows red when finger is placed for detection.
 
@@ -37,7 +37,7 @@ This project is a real-time, IoT-enabled **pulse oximeter** that measures **hear
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit_diagram.jng)
 
 ### 🧷 Pin Connections
 
